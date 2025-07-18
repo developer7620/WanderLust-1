@@ -30,7 +30,7 @@ Wanderlust is a **full-stack stay booking platform** where users can **browse, b
 
 ## Screenshot
 
-https://github.com/user-attachments/assets/939ae0eb-aded-44dc-a582-8b4db7a96f4e
+<img width="1440" height="781" alt="Screenshot 2025-07-18 at 11 10 20 AM" src="https://github.com/user-attachments/assets/951e6c5b-c2cc-4634-ac5e-c87e4b06c1f4" />
 
 
 🔮 Future Improvements
